@@ -1,2 +1,2 @@
 The Global Engagement & Empowerment Forum on Sustainable Development (GEEF) is an annual international event organized by the Institute for Global Engagement & Empowerment (IGEE) at Yonsei University and the Ban Ki-moon Centre for Global Citizens.
-This folder contains presentation materials, transcripts, and concept notes used in the 2025 G.E.E.F. Forum's Special Session 2-2: Yonsei University's Quantum Technology for the SDGs. 
+This folder contains presentation materials, transcripts, and concept notes used in the 2025 GEEF Forum's Special Session 2-2: Yonsei University's Quantum Technology for the SDGs. 
